@@ -1,5 +1,5 @@
 import pygame
-import constants.py
+from constants.py import *
 
 def main():
     print("Starting asteroids!")
